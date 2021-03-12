@@ -1,0 +1,17 @@
+html, body {
+  height: 100vh;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 500px;
+}
+
+.container fieldset {
+  margin: 10px;
+}
